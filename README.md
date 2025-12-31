@@ -31,3 +31,6 @@ This tool helps F&B business owners and suppliers perform **Market Research** an
 ├── data_mentah.html    # Raw Source (Target Website)
 ├── .gitignore          # Git configuration
 └── Laporan_Burjo_Final.xlsx  # Final Output (The "Gold")
+
+**`KizunaK15/Scraping-Data-Burjo-Gojek`**
+**`[Prima Aji Setyawan]`**
