@@ -84,8 +84,8 @@ This tool helps F&B business owners and suppliers perform **Market Research** an
 
 *Engineer & IoT Enthusiast*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=social&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://linkedin.com/in/yourprofilename)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=social&logo=github)](https://github.com/KizunaK15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/primaajisetyawan)
 
 > **Disclaimer:** This project is for educational and research purposes only. The data used in this repository is a snapshot sample for learning Data Engineering concepts. Please respect the robots.txt and Terms of Service of any website you scrape.
 
